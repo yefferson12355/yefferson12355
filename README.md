@@ -55,7 +55,8 @@
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/yefferson-miranda-josec-0a7820291/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+linkedin.com/in/yefferson-miranda-josec-0a7820291)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1338--556X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1338-556X)
 
 ---
